@@ -9,4 +9,4 @@ Features :
 
 Features to be added : 
 1) Email verification when new user is registered
-2) Payment gateway
+2) Payment gateway.
