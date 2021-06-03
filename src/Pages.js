@@ -5,8 +5,14 @@ import ViewMenu from "./ViewMenu"
 import AdminPage from "./AdminPage"
 
 export default function Home() {
-  return <h1>Welcome to Pizza Paradise</h1>
-}
+  return (
+    <div class="bg_image">
+   
+    <span class="home">Welcome to Pizza Paradise</span>
+    </div>
+  );
+  
+};
 
 export function Registration() {
   return <Register></Register>

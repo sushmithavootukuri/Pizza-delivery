@@ -50,7 +50,7 @@ export function LoginForm({ setAdmin, setAuthentication }) {
 
     return (
 
-        <div className="App">
+        <div className="App card">
             <form onSubmit={handleSubmit(onSubmit)}>
                 <div>
                     <label htmlFor="email">Email</label>
